@@ -10,8 +10,8 @@ This project implements a deep convolutional neural network (CNN) to perform **j
 - **Labels**:
   - Age (positive scalar) from `train_age.csv`
   - Gender (0 = Female, 1 = Male) from `train_gender.csv`
-The images can be found here: https://www.kaggle.com/competitions/spr-x-ray-age/data
 ---
+The images can be found here: https://www.kaggle.com/competitions/spr-x-ray-age/data
 
 ## 🧠 Model Architecture
 
