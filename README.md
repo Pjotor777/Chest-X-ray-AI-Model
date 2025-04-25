@@ -4,7 +4,7 @@ This project implements a deep convolutional neural network (CNN) to perform **j
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Images**: 10,702 grayscale chest X-ray images (1024×1024), resized to **128×128** for training.
 - **Labels**:
@@ -13,7 +13,7 @@ This project implements a deep convolutional neural network (CNN) to perform **j
 ---
 The images can be found here: https://www.kaggle.com/competitions/spr-x-ray-age/data
 
-## 🧠 Model Architecture
+## Model Architecture
 
 The CNN architecture consists of:
 - **3 convolutional layers** with ReLU activation, batch normalization, and max-pooling.
